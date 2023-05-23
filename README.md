@@ -10,6 +10,12 @@ Untuk menginstall module node bisa menggunakan cara dibawah:
   $ npm install
 ```
 
+lalu jalankan:
+
+```bash
+  $ npm start
+```
+
 ### Command Untuk POSTMAN
 
 ```bash
